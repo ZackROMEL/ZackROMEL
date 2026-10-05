@@ -1,5 +1,11 @@
 # Zakarya Rouimel - Data Analyst Portfolio
 ## About
+Hi, I'm Zakarya! Professional Data Analyst experienced in working with data from diverse sources and applying analytical skills and tools to support data-driven decision-making.
+
+This is a repository to share data analysis projects. 
+
+
+
 
 
 <!--
